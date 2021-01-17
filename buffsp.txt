@@ -3,4 +3,4 @@ send hadees exec BRDSP;
 wait .1;
 send zeuuss exec CORbase;
 wait .1;
-send aphrodittee GEObase;
+send aphrodittee exec GEObase;
