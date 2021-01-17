@@ -1,0 +1,3 @@
+send @all /echo Using Grape Daifuku
+wait .1;
+send @all input /item 'Grape Daifuku' <me>

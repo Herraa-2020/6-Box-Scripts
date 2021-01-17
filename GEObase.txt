@@ -1,0 +1,3 @@
+lua load autogeo;
+wait .1;
+geo on;
