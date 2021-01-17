@@ -1,4 +1,6 @@
-send @all /echo SP buffs for BRD and COR;
+send @all /echo SP buffs for BRD and COR and GEO;
 send hadees exec BRDSP;
 wait .1;
 send zeuuss exec CORbase;
+wait .1;
+send aphrodittee GEObase;
